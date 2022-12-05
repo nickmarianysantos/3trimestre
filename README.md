@@ -4,6 +4,6 @@ Colegio Estadual João de Faria Pioli
 
 1ano E 
 
-Ana Julia
-Emilly Bueno
+Ana Julia;
+Emilly Bueno;
 Nicoly Mariany
